@@ -1,4 +1,6 @@
-Source: https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/
+Source: https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/**
+
+＊＊ stack跟資料結構裡的stack有一點關係, heap和資料結構裡面的heap沒半毛關係
 
 Stack Allocation : 
            The allocation happens on contiguous blocks of memory. 
